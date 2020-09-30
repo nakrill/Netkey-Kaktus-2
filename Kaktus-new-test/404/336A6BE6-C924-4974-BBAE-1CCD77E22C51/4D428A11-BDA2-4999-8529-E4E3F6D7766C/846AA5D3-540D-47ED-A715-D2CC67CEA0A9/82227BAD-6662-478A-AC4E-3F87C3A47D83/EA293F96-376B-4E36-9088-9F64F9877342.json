@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.2,
+            "green": 0.457978969559852,
+            "red": 0.9921568627450981
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SourceSansPro-Regular",
-              "size": 13
+              "name": "SourceSansPro-Semibold",
+              "size": 30
             }
           },
           "MSAttributedStringTextTransformAttribute": 0,
@@ -32,16 +32,16 @@
           "strikethroughStyle": 0,
           "underlineStyle": 0
         },
-        "length": 7,
+        "length": 20,
         "location": 0
       }
     ],
-    "string": "SIGN IN"
+    "string": "Oops! Page not found"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "96EFD57B-FAE4-4E6A-80E7-5F936916F293",
+  "do_objectID": "EA293F96-376B-4E36-9088-9F64F9877342",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -56,11 +56,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 42,
-    "x": 7,
-    "y": 2.5
+    "width": 320,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{0, 8}, {41, 10}}",
+  "glyphBounds": "{{1, 1}, {276, 29}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,9 +69,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "SIGN IN",
+  "name": "Oops! Page not found",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -109,7 +109,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "E6F24E49-2CBA-470A-9EFE-00F4A78CBD1C",
+    "do_objectID": "4559A122-1414-46FA-8B6F-D38E0DCDC5D3",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -125,15 +125,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.2,
+          "green": 0.457978969559852,
+          "red": 0.9921568627450981
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SourceSansPro-Regular",
-            "size": 13
+            "name": "SourceSansPro-Semibold",
+            "size": 30
           }
         },
         "MSAttributedStringTextTransformAttribute": 0,
@@ -152,12 +152,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "isAutoWidth": 1
-      }
-    }
-  }
+  "textBehaviour": 1
 }
