@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6DD4DA53-70BD-4C14-A946-C1DDB4B38E67",
+  "do_objectID": "3AA7117E-CE61-49E8-BB4A-51A2306344E1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,11 +14,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 176,
-    "width": 177,
-    "x": 349,
-    "y": 18
+    "constrainProportions": true,
+    "height": 22,
+    "width": 67,
+    "x": 600,
+    "y": 14
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "spin-status/yellow",
+  "name": "logo/new-text",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -71,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "614E3585-7BDB-4BE3-9942-AD3B336213FB",
+    "do_objectID": "43DB5397-846A-40CB-B077-6FBBC9390B56",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,6 +83,27 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "7716367D-C854-473C-8685-64713EA021CB",
+  "symbolID": "BEAAF266-F2D0-4696-9BC4-1D19CE18907C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 22,
+            "enabled": 1,
+            "modelID": "constraint_c607d97b-b53e-4e98-bdbd-daf88a015a58",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 67
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_292fe8f2-482c-4bca-b8e9-9f1334895107",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
   "verticalSpacing": 0
 }

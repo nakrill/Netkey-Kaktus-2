@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
-  "booleanOperation": -1,
+  "_class": "group",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "6DD4DA53-70BD-4C14-A946-C1DDB4B38E67",
+  "do_objectID": "EDA660E3-CE68-4E4E-AFB9-AEEAB627305A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,27 +15,41 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 176,
-    "width": 177,
-    "x": 349,
-    "y": 18
+    "height": 32,
+    "width": 142,
+    "x": 1649,
+    "y": 8
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "spin-status/yellow",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "251238EB-11BB-45BE-AF3C-616AF024FB7F"
+    },
+    {
+      "class": "group",
+      "id": "7B944E97-727B-4399-8780-CBB47706DE41"
+    },
+    {
+      "class": "group",
+      "id": "2F007EE1-2207-4E0A-BA50-F573FD36FB3A"
+    }
   ],
+  "name": "TOPBAR BLYA",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -63,7 +77,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -71,7 +85,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "614E3585-7BDB-4BE3-9942-AD3B336213FB",
+    "do_objectID": "D3E233D1-A207-4F30-8A2D-2AF13A98A944",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,6 +97,10 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "7716367D-C854-473C-8685-64713EA021CB",
-  "verticalSpacing": 0
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
 }

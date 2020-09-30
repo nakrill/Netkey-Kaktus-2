@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6DD4DA53-70BD-4C14-A946-C1DDB4B38E67",
+  "do_objectID": "4647F16B-0459-4974-B888-F5A01985484E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 176,
-    "width": 177,
-    "x": 349,
-    "y": 18
+    "height": 66,
+    "width": 66,
+    "x": 520.0000000000009,
+    "y": 7.000000000000455
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,14 +28,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "spin-status/yellow",
+  "name": "logo-new copy 3",
   "nameIsFixed": false,
   "overrideValues": [
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
-  "scale": 1,
+  "rotation": 69,
+  "scale": 0.4,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -44,7 +44,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 4,
       "saturation": 1,
       "type": 0
     },
@@ -71,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "614E3585-7BDB-4BE3-9942-AD3B336213FB",
+    "do_objectID": "1E337848-F1AF-4766-892B-E4462C50BA41",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,6 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "7716367D-C854-473C-8685-64713EA021CB",
+  "symbolID": "21CA5002-C3D1-4C4A-9293-29258E14A486",
   "verticalSpacing": 0
 }

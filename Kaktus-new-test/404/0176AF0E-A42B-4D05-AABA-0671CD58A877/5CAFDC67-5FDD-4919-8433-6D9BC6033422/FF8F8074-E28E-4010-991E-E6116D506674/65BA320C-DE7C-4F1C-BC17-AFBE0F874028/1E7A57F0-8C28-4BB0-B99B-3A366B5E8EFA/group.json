@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
-  "booleanOperation": -1,
+  "_class": "group",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "6DD4DA53-70BD-4C14-A946-C1DDB4B38E67",
+  "do_objectID": "1E7A57F0-8C28-4BB0-B99B-3A366B5E8EFA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,27 +15,49 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 176,
-    "width": 177,
-    "x": 349,
-    "y": 18
+    "height": 274,
+    "width": 262,
+    "x": 0,
+    "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "spin-status/yellow",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "isVisible": false,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "06B70AAE-D153-4BD9-8163-6CEFD2B69D78"
+    },
+    {
+      "class": "shapePath",
+      "id": "32B05013-A18C-4F2A-AC3F-C65482DCC194"
+    },
+    {
+      "class": "bitmap",
+      "id": "166DBB82-2C58-44FB-A423-9280ED1A5AAB"
+    },
+    {
+      "class": "shapePath",
+      "id": "9F3C1387-BB8F-4B10-81D8-420294AA328B"
+    },
+    {
+      "class": "text",
+      "id": "9F3D5A2F-0E56-4A30-847D-8204F5FDF7BF"
+    }
   ],
+  "name": "DROPDOWN",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -63,7 +85,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -71,7 +93,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "614E3585-7BDB-4BE3-9942-AD3B336213FB",
+    "do_objectID": "98533D25-FEE5-4E68-B99A-FFA0AB8212EF",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -82,7 +104,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "7716367D-C854-473C-8685-64713EA021CB",
-  "verticalSpacing": 0
+  }
 }
