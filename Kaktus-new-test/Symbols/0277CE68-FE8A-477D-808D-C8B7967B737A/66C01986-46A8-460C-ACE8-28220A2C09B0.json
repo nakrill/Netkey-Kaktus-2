@@ -191,6 +191,7 @@
           "_class": "color",
           "alpha": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "blue": 0.992,
           "green": 0.2633894230769234,
           "red": 0.1999999999999999
@@ -199,6 +200,11 @@
           "green": 0.772,
           "red": 0.992
 >>>>>>> parent of 0d88092... revision-1
+=======
+          "blue": 0.3061826923076929,
+          "green": 0.1999999999999999,
+          "red": 0.992
+>>>>>>> parent of 37c54ff... revision-FINAL
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

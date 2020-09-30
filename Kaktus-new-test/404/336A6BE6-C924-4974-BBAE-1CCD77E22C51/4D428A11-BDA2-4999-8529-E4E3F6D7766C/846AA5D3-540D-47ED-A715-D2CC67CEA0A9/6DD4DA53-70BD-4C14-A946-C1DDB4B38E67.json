@@ -16,6 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
 <<<<<<< HEAD
+<<<<<<< HEAD
     "height": 176,
     "width": 177,
     "x": 349,
@@ -26,6 +27,12 @@
     "x": 363,
     "y": 32
 >>>>>>> parent of 0d88092... revision-1
+=======
+    "height": 200,
+    "width": 201,
+    "x": 337,
+    "y": 6
+>>>>>>> parent of 37c54ff... revision-FINAL
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,

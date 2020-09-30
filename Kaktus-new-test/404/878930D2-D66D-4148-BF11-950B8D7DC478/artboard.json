@@ -1,0 +1,194 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9725490196078431,
+    "green": 0.9725490196078431,
+    "red": 0.9725490196078431
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "878930D2-D66D-4148-BF11-950B8D7DC478",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 799,
+    "width": 1274,
+    "x": 1315,
+    "y": -12
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      109.03125,
+      108.84375,
+      127.3125,
+      190.46875,
+      207.96875,
+      271.59375,
+      290,
+      352.25,
+      370.71875,
+      432.90625,
+      452,
+      514.9375,
+      937,
+      534.59375,
+      594,
+      613,
+      675.9375,
+      694.84375,
+      754.875,
+      775,
+      837.9375,
+      918.9375,
+      856,
+      27.96875,
+      46.15625,
+      1018.25,
+      999.9375,
+      1080.78125,
+      1098.65625,
+      13,
+      23.15625,
+      16,
+      727,
+      1246
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C0FE9C7F-F4B9-4471-90E8-B258045EED47"
+    },
+    {
+      "class": "group",
+      "id": "566E0E43-0ED7-4CBF-A606-3348F2DDF3BE"
+    },
+    {
+      "class": "group",
+      "id": "D2DD692D-9D1B-4997-8F2C-1BCDC060FFE1"
+    },
+    {
+      "class": "group",
+      "id": "309001D5-984A-4B07-A160-D74270BCE980"
+    },
+    {
+      "class": "group",
+      "id": "059067E3-8356-450A-92E3-B99EFD0B60B0"
+    },
+    {
+      "class": "group",
+      "id": "35A628F0-687E-4713-8B2E-3CCCACAE07A0"
+    },
+    {
+      "class": "group",
+      "id": "C21DF52D-52D2-4792-ACBF-D56A1FFDA02F"
+    }
+  ],
+  "name": "404-B Copy",
+  "nameIsFixed": true,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "AC4359E1-2A68-4C1E-8A9C-A27CBE1E04B2",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      38,
+      33.09375,
+      55.03125
+    ]
+  }
+}
