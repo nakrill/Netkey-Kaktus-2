@@ -1,0 +1,202 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9725490196078431,
+    "green": 0.9725490196078431,
+    "red": 0.9725490196078431
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "336A6BE6-C924-4974-BBAE-1CCD77E22C51",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 799,
+    "width": 1274,
+    "x": -105,
+    "y": -12
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      109.03125,
+      108.84375,
+      127.3125,
+      190.46875,
+      207.96875,
+      271.59375,
+      290,
+      352.25,
+      370.71875,
+      432.90625,
+      452,
+      514.9375,
+      937,
+      534.59375,
+      594,
+      613,
+      675.9375,
+      694.84375,
+      754.875,
+      775,
+      837.9375,
+      918.9375,
+      856,
+      27.96875,
+      46.15625,
+      1018.25,
+      999.9375,
+      1080.78125,
+      1098.65625,
+      13,
+      23.15625,
+      16,
+      727,
+      1246
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "ABA422B2-DB59-48DA-B443-673CEDACC79E"
+    },
+    {
+      "class": "rectangle",
+      "id": "4D702A9D-525C-4A7F-957A-69238E74E0D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1BBA47C1-DB64-4949-9855-BDD5944A6536"
+    },
+    {
+      "class": "group",
+      "id": "F82128D6-B0E3-4415-98DF-9BF6570F9D5D"
+    },
+    {
+      "class": "group",
+      "id": "42698FF0-AE6A-4880-B23B-C6C7CF3492C2"
+    },
+    {
+      "class": "group",
+      "id": "DD75AC5D-33D6-477D-A11E-E05FD82DF32C"
+    },
+    {
+      "class": "group",
+      "id": "E7B9B357-AC0E-42B0-B96F-BB9AE6BBF666"
+    },
+    {
+      "class": "group",
+      "id": "6B8F2643-C881-4713-B365-AC8AF1649975"
+    },
+    {
+      "class": "group",
+      "id": "4D428A11-BDA2-4999-8529-E4E3F6D7766C"
+    }
+  ],
+  "name": "404-B",
+  "nameIsFixed": true,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "6534A869-C8C9-496C-A394-0B60F41254D1",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      38,
+      33.09375,
+      55.03125
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D19D984F-4A08-43D0-9C58-7074D714A9A2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 424,
+    "width": 463,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7973563A-9613-4898-A8F7-ADBF39B12649"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "93D8B016-F80B-4E9D-BA2A-786118C7D820"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B73C6E39-95F3-4F0B-943E-BF425EF1940B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4FAE5281-8DDB-432B-92EF-2BA8C9FBE635"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6CEA18AF-0C02-4E88-BDEC-369F068FCFF7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E64D8685-3489-4E9B-B7ED-BBAB3B920110"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9290FDAA-7860-4225-9AB7-57122A30208C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5B64A0C7-4532-4D44-8DF2-7A92A1A9790D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FF301FAC-6597-43ED-A0AF-5BD9B7A5178D"
+    }
+  ],
+  "name": "Login Button + Login Button Copy 6 + Login Button Copy 12 + Login Button Copy 18 + Login Button Copy 3 + Login Button Copy 7 + Login Button Copy 13 + Login Button Copy + Login Button Copy 8 + Login Button Copy 14 + Login Button Copy 20 + Login Button Copy 4 + Login Button Copy 9 + Login Button Copy 15 + Login Button Copy 2 + Login Button Copy 10 + Login Button Copy 16 + Login Button Copy 22 + Login Button Copy 5 + Login Button Copy 11 + Login Button Copy 17 Mask",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "6F83D080-135F-4B5F-9256-AD4B9769F5E8",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

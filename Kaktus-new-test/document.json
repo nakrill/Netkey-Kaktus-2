@@ -1,0 +1,210 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "1960E219-3CD5-4B7C-AA91-7046CB12133D",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "96b12150-0306-11eb-823e-c9fa9dbca236",
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "0FCAF470-8FAD-4E8A-9687-5A86277E80DE",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-BlackItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-BlackIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "1864C3E6-F146-4FE0-B1EF-F5EFDB6F229E",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-Regular.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "SourceSansPro-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "1E28D9AB-754A-4D92-AD58-4AC350A9B47C",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-Light.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "201779FC-04B3-4A7B-AE95-A03AE1CEBCB0",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-BoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-BoldIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "32D97AF2-CF48-4C81-B373-104DA69C1DC5",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-SemiboldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-SemiboldIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "47AABF27-F68F-4937-9BAD-3214A22347BF",
+      "fontFamilyName": "Material Design Icons",
+      "fontFileName": "materialdesignicons-webfont.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Material-Design-Icons"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "47FA301E-D242-4366-9A79-17CDDA28AE60",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-Semibold.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "SourceSansPro-Semibold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "55C6A419-2E43-4B69-8F99-A8FED29D9EC6",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-LightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-LightIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "63F8A5BB-F66C-4FE5-B4FE-3BF2A6FE17A9",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-ExtraLightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-ExtraLightIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "6CD1D651-36C2-4D70-87A5-EC7C09F46A48",
+      "fontFamilyName": "Material",
+      "fontFileName": "Material.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Material"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "899AB2D7-8643-4A6B-A0D8-3E1FE494F3A7",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-ExtraLight.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-ExtraLight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "9B8B2B4C-F9CA-4766-8FEC-43494AB31B20",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-Bold.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "SourceSansPro-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "A6C01ACB-8FCB-4042-B887-299647A8E70E",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-Black.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D961F4D0-D035-47FF-9399-1805D4320230",
+      "fontFamilyName": "lindua",
+      "fontFileName": "lindua.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "lindua"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F31D2BA8-B627-4E87-81DB-716A5264036E",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-Italic.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "SourceSansPro-It"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "68.2",
+    "build": 102594,
+    "version": 131
+  },
+  "pages": [
+    "404",
+    "Symbols"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "objects": [
+    ]
+  },
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}
