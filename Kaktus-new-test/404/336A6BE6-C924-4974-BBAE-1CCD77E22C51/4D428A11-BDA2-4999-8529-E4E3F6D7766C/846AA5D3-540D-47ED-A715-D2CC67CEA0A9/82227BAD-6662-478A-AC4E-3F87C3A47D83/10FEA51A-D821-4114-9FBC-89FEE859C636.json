@@ -32,11 +32,11 @@
           "strikethroughStyle": 0,
           "underlineStyle": 0
         },
-        "length": 30,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "Error code: 404 Page Not Found"
+    "string": "Error code: 404"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -58,9 +58,9 @@
     "height": 24,
     "width": 320,
     "x": 0,
-    "y": 58
+    "y": 56
   },
-  "glyphBounds": "{{1, 6}, {209, 16}}",
+  "glyphBounds": "{{1, 6}, {100, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,7 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Error code: 404 Page",
+  "name": "Error code: 404",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

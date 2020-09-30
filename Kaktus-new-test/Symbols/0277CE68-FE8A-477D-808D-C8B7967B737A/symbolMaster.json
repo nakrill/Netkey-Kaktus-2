@@ -9,7 +9,11 @@
     "red": 1
   },
   "booleanOperation": -1,
+<<<<<<< HEAD
   "changeIdentifier": 351,
+=======
+  "changeIdentifier": 201,
+>>>>>>> parent of 0d88092... revision-1
   "clippingMaskMode": 0,
   "do_objectID": "0277CE68-FE8A-477D-808D-C8B7967B737A",
   "exportOptions": {

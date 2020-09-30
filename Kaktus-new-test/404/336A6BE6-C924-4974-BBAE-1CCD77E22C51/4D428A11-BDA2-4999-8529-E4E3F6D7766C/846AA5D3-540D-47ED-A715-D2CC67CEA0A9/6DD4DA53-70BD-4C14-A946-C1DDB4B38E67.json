@@ -15,10 +15,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+<<<<<<< HEAD
     "height": 176,
     "width": 177,
     "x": 349,
     "y": 18
+=======
+    "height": 148,
+    "width": 149,
+    "x": 363,
+    "y": 32
+>>>>>>> parent of 0d88092... revision-1
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
